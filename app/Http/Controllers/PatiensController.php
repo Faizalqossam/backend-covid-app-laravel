@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 # import model patiens untuk menggunakan elequent
-use App\Models\patiens;
+use App\Models\Patiens;
 use Illuminate\Http\Request;
 
 class PatiensController extends Controller
